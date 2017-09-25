@@ -1,0 +1,27 @@
+{
+  "iOS" : [
+    {
+      "hash" : "37cf4dc1515f965ab9af7097b71a07f29c5b617d05a5ac661ec18646e20cdc31",
+      "name" : "SwiftMoment"
+    }
+  ],
+  "commitish" : "v0.7",
+  "watchOS" : [
+    {
+      "hash" : "69789d7275ce6d4f7f21810998e785d1c576e8118ccbee3248a04874cf6916f4",
+      "name" : "SwiftMoment"
+    }
+  ],
+  "tvOS" : [
+    {
+      "hash" : "2f92bf1ed51b78e93ac9bc4249d49e71af28d60e9f99d6199136623810763c74",
+      "name" : "SwiftMoment"
+    }
+  ],
+  "Mac" : [
+    {
+      "hash" : "0eec12d89b64b4e36bb68c96ada2b452acd34a334d8a751f89e269106f6633a9",
+      "name" : "SwiftMoment"
+    }
+  ]
+}

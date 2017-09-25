@@ -1,0 +1,9 @@
+{
+  "commitish" : "3.2.1",
+  "iOS" : [
+    {
+      "hash" : "7dd7b68dc2678381ac5bfe58363805546d773b5c4f6eea96d71b69062676c9f0",
+      "name" : "ZXingObjC"
+    }
+  ]
+}

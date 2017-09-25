@@ -1,0 +1,3 @@
+# Require latest version of these libraries
+github "akosma/SwiftMoment"
+github "TheLevelUp/ZXingObjC" ~> 3.2.1
